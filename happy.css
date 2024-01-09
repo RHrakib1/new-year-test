@@ -73,6 +73,7 @@ body {
     margin-top: 120px;
     margin-bottom: 120px;
 }
+
 .party {
     color: #FFF;
     font-family: Merriweather;
@@ -85,6 +86,7 @@ body {
     margin-left: 126px;
     margin-bottom: 0px;
 }
+
 .party-discription {
     color: rgba(255, 255, 255, 0.80);
     font-family: Inter;
@@ -95,22 +97,63 @@ body {
     margin-left: 126px;
     margin-top: 1px;
 }
-.Welcome{
+
+.Welcome {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
-.group-pic{
+
+.group-pic {
     margin: 68px 138px 67px 38px;
 }
-.join{
+
+.join {
     color: #9f74ef;
 
-text-align: center;
-font-family: Inter;
-font-size: 20px;
-font-style: normal;
-font-weight: 700;
-line-height: normal;
-text-transform: uppercase;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+/* discription start */
+.discription-address {
+    border-radius: 10px;
+    background: #FFF8F3;
+   
+}
+
+.text {
+    text-align: center;
+   padding: 100px;
+}
+
+.data {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+
+}
+
+.value {
+    color: #070211;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+}
+.btn-max{
+    color: #FFF;
+    border-radius: 7px;
+    padding: 8px 22px;
+    background: #F00;
 }
