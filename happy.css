@@ -1,0 +1,116 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+/* new year start */
+.first-text {
+    background: url("resources/Banner Image.png");
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+}
+
+.add-text {
+    padding: 157px 344px;
+}
+
+.text-title {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.text-discription {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+}
+
+/* style off start */
+.off {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+
+
+}
+
+.our {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+
+}
+
+.cate {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+/* new year photo */
+.new-photo {
+    width: 802.9px;
+    height: 500px;
+    margin-left: 270px;
+}
+
+/* welcome party */
+.rakib {
+    background-image: url("resources/Vectorrr.png");
+    background-repeat: no-repeat;
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+.party {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+    width: 642px;
+    margin-top: 126px;
+    margin-left: 126px;
+    margin-bottom: 0px;
+}
+.party-discription {
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    width: 697px;
+    margin-left: 126px;
+    margin-top: 1px;
+}
+.Welcome{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.group-pic{
+    margin: 68px 138px 67px 38px;
+}
+.join{
+    color: #9f74ef;
+
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+}
