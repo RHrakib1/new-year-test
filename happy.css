@@ -160,6 +160,33 @@
     background: #F00;
 }
 
+/* imag style */
+.father-div {}
+
+.gift {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.portfolio {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+
+}
+
+.peragraph {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+}
+
 /* form  */
 .mother-div {
     border-radius: 16px;
@@ -187,14 +214,13 @@
     line-height: 32px;
 
 }
-.btn-mama{
+
+.btn-mama {
     color: #FFF;
     border-radius: 0px 50px 50px 0px;
     padding: 12px 22px;
     background: #F00;
 }
-
-
 
 /* footer section */
 footer {
@@ -261,6 +287,7 @@ p {
     font-size: 24px;
     font-weight: 500;
 }
-.email{
+
+.email {
     padding: 10px;
 }
